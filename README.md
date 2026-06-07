@@ -197,7 +197,8 @@ Add your dashboard screenshot in the Images folder and display it using:
 <a href="https://github.com/Devam665/Job-Market-Intelligence-Dashboard/blob/main/Dashboard%20Image/Dashboard.png">View Dashboard</a>
 
 Image:-
-<img width="959" height="746" alt="Dashboard" src="https://github.com/user-attachments/assets/a06ca2b9-ab95-4c11-bf34-1c51734488d7" />
+![Uploading ChatGPT Image Jun 7, 2026, 04_17_16 PM.png…]()
+
 
 ## 💡 Business Recommendations
 
