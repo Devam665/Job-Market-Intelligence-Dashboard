@@ -194,7 +194,7 @@ Data Scientist roles emphasize:
 ## 📷 Dashboard Preview
 
 Add your dashboard screenshot in the Images folder and display it using:
-<a href="https://github.com/Devam665/Job-Market-Intelligence-Dashboard/blob/main/Dashboard%20Image/Dashboard.png">View Dashboard</a>
+<a href="https://github.com/Devam665/Job-Market-Intelligence-Dashboard/blob/main/Dashboard%20Image/Dashboard%20Job%20intelligence.png">View Dashboard</a>
 
 Image:-
 <img width="959" height="746" alt="Dashboard" src="https://github.com/Devam665/Job-Market-Intelligence-Dashboard/blob/main/Dashboard%20Image/Dashboard%20Job%20intelligence.png" />
